@@ -3,9 +3,9 @@ The Matching Game (commonly known as Pikachu Puzzle Game) includes a board of mu
 ![Pikachu Puzzle game](/Document/PikachuGame.png)
 ### Some Game Instructions
 The matching mechanism of this game is the same as the original game\
-In Easy mode, press h key to get suggestions\
-Use a, d, w, s keys to move the pointer\
-Press enter to select
+In Easy mode, press `h` key to get suggestions\
+Use `a, d, w, s` keys to move the pointer\
+Press `Enter` to select
 ### Compile source code into executable file.
 Please follow these steps:
 1. Open terminal at '/Source'
