@@ -9,5 +9,5 @@ Press enter to select
 ### Compile source code into executable file.
 Please follow these steps:
 1. Open terminal at '/Source'
-1. Type `g++ main.cpp advance.cpp board.cpp boardLinkedList.cpp endGameCheck.cpp matching.cpp -o <name>` (<name> is the name of the .exe file)
+1. Type `g++ main.cpp advance.cpp board.cpp boardLinkedList.cpp endGameCheck.cpp matching.cpp -o <name>` ( <name> is the name of the .exe file)
 1. Press Enter
